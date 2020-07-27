@@ -1,0 +1,25 @@
+{
+  "title": "Accessing Ports",
+  "description": "Learn how to access to inside of katacoda environment (Japanese)",
+  "details": {
+    "steps": [
+      {
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "terminal-iframe",
+    "dashboards": [{ "name": "Port 80", "port": 80 }]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
